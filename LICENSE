@@ -1,0 +1,31 @@
+Greywatch Tower
+Copyright (c) 2026 Bezoon. All rights reserved.
+
+The game, including its program code, ROM image, story, characters, artwork,
+music and sound, is the property of Bezoon.
+
+You MAY, free of charge:
+  - play the game, on any hardware or emulator, and in the web player;
+  - share links to this repository and to the web player;
+  - copy and share the unmodified ROM file (greywatch-tower.gba), as long as
+    you do not charge for it and you keep this notice with it or link to this
+    repository;
+  - stream, record and publish videos, screenshots and reviews of the game,
+    including monetised ones.
+
+You may NOT, without written permission from Bezoon:
+  - sell the game or the ROM, or include it in anything that is sold
+    (including paid bundles, compilations, reproduction cartridges and
+    pre-loaded devices);
+  - modify the ROM, or distribute modified versions, translations or hacks;
+  - extract, reuse or redistribute any of the game's code, art, music, sound,
+    characters or story in other works.
+
+THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE GAME.
+
+Third-party software: the web player (index.html on the gh-pages branch) loads
+EmulatorJS (GPL-3.0, https://github.com/EmulatorJS/EmulatorJS) and the mGBA
+core (MPL-2.0, https://github.com/mgba-emu/mgba) from the EmulatorJS CDN.
+They are not covered by this licence and are not part of this repository.
