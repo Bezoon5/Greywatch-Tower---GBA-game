@@ -10,7 +10,7 @@
   A gothic beat-'em-up for the Game Boy Advance.<br>
   <strong><a href="https://bezoon5.github.io/Greywatch-Tower---GBA-game/">▶ Play in your browser</a></strong>
   &nbsp;·&nbsp;
-  <strong><a href="https://github.com/Bezoon5/Greywatch-Tower---GBA-game/releases/latest">⬇ Download the ROM</a></strong>
+  <strong><a href="https://github.com/Bezoon5/Greywatch-Tower---GBA-game/raw/main/greywatch-tower.gba">⬇ Download the ROM</a></strong>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Greywatch Tower is a brand-new game built for original GBA hardware. It plays on
 ## How to play
 
 - **In your browser:** open the [web player](https://bezoon5.github.io/Greywatch-Tower---GBA-game/). It works on desktop and on phones (on-screen buttons appear on touch screens).
-- **On an emulator:** download `greywatch-tower.gba` from the [latest release](https://github.com/Bezoon5/Greywatch-Tower---GBA-game/releases/latest) and open it in mGBA, Delta (iOS), RetroArch or any GBA emulator.
+- **On an emulator:** download [`greywatch-tower.gba`](https://github.com/Bezoon5/Greywatch-Tower---GBA-game/raw/main/greywatch-tower.gba) and open it in mGBA, Delta (iOS), RetroArch or any GBA emulator.
 - **On an Analogue Pocket:** copy the ROM to the GBA folder on the SD card (`/Assets/gba/common/`, where the GBA core also expects its BIOS file) and launch it from the GBA core.
 - **On a real Game Boy Advance:** write the ROM to a flash cartridge. The game saves to battery-backed SRAM.
 
