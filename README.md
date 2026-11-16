@@ -21,6 +21,12 @@ Two strangers hold the walls. **Róisín** is a storm-calling dancer with lightn
 
 Greywatch Tower is a brand-new game built for original GBA hardware. It plays on a real Game Boy Advance (with a flash cart), the Analogue Pocket, any good GBA emulator, or right here in your browser.
 
+## Trailer
+
+<p align="center">
+  <a href="https://github.com/Bezoon5/Greywatch-Tower---GBA-game/blob/main/trailer.mp4"><img src="screenshots/trailer-poster.jpg" alt="Watch the Greywatch Tower trailer" width="720"></a>
+</p>
+
 ## Features
 
 - **Seven chapters**, two flashbacks and three special stages, told through illustrated story pages between levels.
